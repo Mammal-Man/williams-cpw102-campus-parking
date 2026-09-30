@@ -5,22 +5,23 @@
 **Date:**
 
 ## Problem Summary
-
+Manual calculations are slow and sometimes innaccurate
 
 ## Proposed solution
 
-
+write python script to calculate parking fees
 
 ## Technical design
 
 ### Inputs
-_What data and information will go into the program? What data types will the program use to represent that data?_
+Number of hours parked
 
 ### Processing
-_What will the program do with the data? What calculations will it perform?_ 
+
+estimated cost = $/h * hours parked
 
 ### Output
-_What will the program return or print to the user?_
+Dollar amount to be paid
 
 ### Functions
 _What function(s) could this program use to modularize the logic? What actions belong together?_
@@ -28,9 +29,9 @@ _What function(s) could this program use to modularize the logic? What actions b
 ## Example interaction
 
 ```text
-User input:
+User input:3.5
 
-Program output:
+Program output: "Your cost is $7.00"
 ```
 
 ## Implementation plan
