@@ -9,7 +9,7 @@
 ## User and problem
 
 Who is the user?
-people parking at on campus
+people parking on campus
 
 What problem does the user have?
 calculating parking fees quickly and accurately
