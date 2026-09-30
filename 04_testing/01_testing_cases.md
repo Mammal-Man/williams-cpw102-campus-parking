@@ -9,10 +9,10 @@ Enter [a valid input]
 The program calculates and displays the correct [output]
 
 **Actual Result:**  
-_To be completed during testing._
+Program calculates and displays correct output
 
 **Result:**  
-Pass / Fail
+**Pass** / Fail
 
 ---
 
@@ -25,10 +25,10 @@ Enter the minimum or maximum allowed [input]
 The program handles the boundary value correctly.
 
 **Actual Result:**  
-_To be completed during testing._
+Program handles boundary value correctly
 
 **Result:**  
-Pass / Fail
+**Pass** / Fail
 
 ---
 
@@ -41,7 +41,7 @@ Enter an invalid value (such as text when a number is expected)
 The program handles the invalid input without crashing.
 
 **Actual Result:**  
-_To be completed during testing._
+Program crashes
 
 **Result:**  
-Pass / Fail
+Pass / **Fail**
